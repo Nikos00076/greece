@@ -1,0 +1,17 @@
+name: greece
+key: gr
+color: red
+emblem: A_Char_Prince_01
+sort: trophy
+info:
+  logo: static/img/badge/legendary-2/A_Char_Prince_01.png?t=635e36fac
+  description: >
+    **καλωσήρθατε στην familia μας greece.**
+  social:
+    - instagram: https://www.instagram.com/clashroyale_greece?igsh=MWNzZ3ZsenlmMjA2bQ==
+    - email: nik1.spanoudakis@gmail.com
+clans:
+  - name: Nova eSports
+    tag: LCVUYCR
+  - name: Nova I ARG
+    tag: 8QC8YQJC
